@@ -1,0 +1,3 @@
+{
+  decipkgs.wallpaper = "default";
+}
