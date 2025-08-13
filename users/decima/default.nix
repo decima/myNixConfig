@@ -17,6 +17,7 @@
   };
 
   decipkgs.git.enable = true;
+  decipkgs.vscode.enable = true;
   decipkgs.zsh.enable = true;
 
   home.username = "decima";
